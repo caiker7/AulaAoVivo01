@@ -16,7 +16,7 @@ server.get('/', (requisicao,resposta) => {
 </head>
 <body>
     
-    <h1>  FORMULARIO PARA INSCRIÇÃO </h1>
+    <h1> REAJUSTE DE SALARIO </h1>
     <form action=""> 
         <label for="idade"> Informe a idade </label><br>
         <input type="number" id="idade"><br>
