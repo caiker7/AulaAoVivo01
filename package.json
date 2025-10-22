@@ -1,0 +1,30 @@
+{
+  "name": "aulaaovivo01",
+  "version": "1.0.0",
+  "description": "primeiro programa para a internet usando node + express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiker7/AulaAoVivo01.git"
+  },
+  "keywords": [
+    "http",
+    "express",
+    "node",
+    "PPI"
+  ],
+  "author": "Caike Tardim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiker7/AulaAoVivo01/issues"
+  },
+  "homepage": "https://github.com/caiker7/AulaAoVivo01#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
